@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JaoJSD
 - 👀 I’m interested in backend and frontend development programming
-- 🌱 I’m currently learning Java, C, Python, JavaScript, and VB programming languages
+- 🌱 I’m currently learning Java, C, Python, JavaScript, and VB programming languages. Additionally, I'm learning CSS and HTML.
 - 💞️ I’m looking to collaborate on any kind of projects which include any of those programming languages.
 - 📫 How to reach me: @JaoJSD
 
